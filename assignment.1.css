@@ -1,0 +1,177 @@
+
+
+nav {
+    position: sticky;
+    text-align: right;
+    background-color: gold;
+    color: pink;
+    top: 0px;
+    height: 40px;
+    }
+#he
+{
+    height: 50px;
+}
+#firstDIV
+{
+    text-align: center;
+    color: brown;
+    font-family: fantasy;
+    font-size: 100px;
+}
+#secDIV
+{
+    column-count: 3;
+    column-width: 200px;
+    color: beige;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
+a{
+    text-decoration: none;
+    float: right;
+    padding: 120;
+    margin-right:5px
+    
+}
+
+
+article
+{
+    height:600px;
+    width:100%;
+    background-color: blanchedalmond;
+    margin:0px;
+    background-image: url('images/1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+section
+{
+    height:450px;
+    background-color:white;
+    float: left;
+    width:100%;
+    margin-top: 20px;
+    
+    margin-top:0px;
+    background-image: url('images/20.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+
+}
+#img11 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+}
+#section1
+{
+    height:250px;
+    width:100%;
+    
+    float: left;
+    margin:0px;
+    column-count: 3; 
+    column-width: 270px;
+    
+    color: lawngreen;
+    
+}
+#div1
+{
+    text-align: center;
+    font-family: cursive;
+    font-size: 30px;
+    text-decoration-color: brown;
+    text-decoration: blueviolet;
+    margin:0px;
+    color: indianred;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode',
+     'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#div2
+{
+    column-count: 3; 
+    column-width: 270px;
+    height: 200px;
+    background-image: url('images/22.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    margin:0px;
+}
+
+img{
+  
+    
+}
+footer
+{
+text-align: center;
+
+}
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+  }
+  
+  .fa:hover {
+      opacity: 0.7;
+  }
+  
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+  
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }
+  
+  .fa-google {
+    background: #dd4b39;
+    color: white;
+  }
+  
+  .fa-linkedin {
+    background: #007bb5;
+    color: white;
+  }
+  .fa-youtube {
+    background: #bb0000;
+    color: white;
+  }
+  
+  .fa-instagram {
+    background: #125688;
+    color: white;
+  }  
+  
+  #left, #right, #middle{
+    margin-top: 20px;
+    width: 32%;
+    height: 550px;
+    }
+    #left {
+    float: left;
+    }
+    #middle {
+    float: right;
+    }
+    #right {
+    float: right;
+    }
+h1{
+    text-align: center;
+    color: black;
+    font-size: 30px;
+}    
+
