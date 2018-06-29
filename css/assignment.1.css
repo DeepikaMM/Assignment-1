@@ -1,4 +1,14 @@
-
+.navbar
+{
+    top:0px;
+    position: sticky;
+}
+.navbar font1
+{
+    margin-left: 60%;
+	font-size: 50px;
+	
+}
 #he
 {
     height: 50px;
