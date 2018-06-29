@@ -8,8 +8,7 @@
 .navbar font1
 {
     margin-left: 60%;
-	font-size: 50px;
-	
+	font-size: 50px;	
 }
 /*srticle div*/
 #he
@@ -28,8 +27,8 @@
     column-count: 3;
     column-width: 200px;
     color: beige;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    
+    font-family: 'Gill Sans', 'Gill Sans MT', 
+    Calibri, 'Trebuchet MS', sans-serif;
 }
 /*anchor */
 a{
@@ -61,7 +60,6 @@ section
     float: left;
     width:100%;
     margin-top: 30px;
-    
     margin-top:0px;
     background-image: url('../images/20.jpg');
     background-repeat: no-repeat;
@@ -74,17 +72,13 @@ section1
     float: left;
     width:100%;
     margin-top: 30px;
-    
     margin-top:0px;
-    
 }
-h4,h1{
-text-align: center;
-
-font-family: 'Times New Roman';
+h4,h1
+{
+   text-align: center;
+   font-family: 'Times New Roman';
 }
-
-
 #div1
 {
     text-align: center;
@@ -94,17 +88,18 @@ font-family: 'Times New Roman';
     text-decoration: blueviolet;
     margin:0px;
     color: indianred;
-   font-family: 'Times New Roman';
+    font-family: 'Times New Roman';
 }
 
 
-footer {
+footer
+{
     margin: 0;
     width: 100%;
     height: 80px;
     padding: 10px 10px 10px 10px;
     background-color:black;
     color: white;
-    }
+}
     
    
