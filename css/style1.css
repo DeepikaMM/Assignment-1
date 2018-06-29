@@ -27,8 +27,7 @@
     column-count: 3;
     column-width: 200px;
     color: beige;
-    font-family: 'Gill Sans', 'Gill Sans MT', 
-    Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'Roboto Condensed';
 }
 /*anchor */
 a{
@@ -51,7 +50,7 @@ article
     background-image: url('../images/1.jpg');
     background-repeat: no-repeat;
     background-size: cover;
-    font-family: 'Times New Roman';
+    font-family: 'Roboto Condensed';
 }
 section
 {
@@ -73,26 +72,28 @@ section1
     width:100%;
     margin-top: 30px;
     margin-top:0px;
+    font-family: 'Roboto Condensed';
 }
-h4,h1
+h4,h1,h2
 {
    text-align: center;
-   font-family: 'Times New Roman';
+   font-family: 'Roboto Condensed';
 }
 h2
 {
-float: left;
+
+font-family: 'Roboto Condensed';
 }
 #div1
 {
     text-align: center;
-    font-family: cursive;
+    font-family: 'Roboto Condensed';
     font-size: 30px;
     text-decoration-color: brown;
     text-decoration: blueviolet;
     margin:0px;
     color: indianred;
-    font-family: 'Times New Roman';
+    
 }
 
 
@@ -109,7 +110,7 @@ footer h3
     text-indent: 10px;
     font-size: 20px;
     padding: 10px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: fantasy;
     float: left;
     color:white;
 }

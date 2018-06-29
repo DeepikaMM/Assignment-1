@@ -32,27 +32,24 @@ section
     background-repeat: no-repeat;
     background-size: cover;
 }
-h4,h1
+h4,h1,h2
 {
    text-align: center;
-   font-family: 'Times New Roman';
+   font-family:'Roboto Condensed';
 }
 /* form style */
 #cent
 {
     align-content: center;
-    
     height:"9500px";
 }
 #for
 {
 	margin-left: 40%;
-	height:"9500px";
+    height:"9500px";
+    font-family: 'Roboto Condensed';
 }
-h2
-{
-	text-align: center;
-}
+
 /* footer starts */
 footer 
 {
@@ -68,7 +65,7 @@ footer h3
     text-indent: 10px;
     font-size: 20px;
     padding: 10px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family:fantasy;
     float: left;
 }
     
