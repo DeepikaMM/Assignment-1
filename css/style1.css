@@ -1,9 +1,9 @@
 /* navbar starts*/
-
 .navbar
 {
     top:0px;
     position: sticky;
+   
 }
 .navbar font1
 {
@@ -11,18 +11,18 @@
 	font-size: 50px;	
 }
 /*srticle div*/
-#he
+#before heading
 {
     height: 50px;
 }
-#firstDIV
+#Main heading
 {
     text-align: center;
     color: brown;
     font-family: fantasy;
     font-size: 100px;
 }
-#secDIV
+#space
 {
     column-count: 3;
     column-width: 200px;
@@ -64,7 +64,7 @@ section
     background-repeat: no-repeat;
     background-size: cover;
 }
-section1
+#news
 {
     height:550px;
     background-color:white;
@@ -83,7 +83,7 @@ h2
 {
 font-family: 'Roboto Condensed';
 }
-#div1
+#gif
 {
     text-align: center;
     font-family: 'Roboto Condensed';
